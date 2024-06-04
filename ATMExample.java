@@ -1,6 +1,3 @@
-public class interfaceatm{
-
-}
 //import required classes and packages   
 import java.util.Scanner;  
   
